@@ -1,6 +1,5 @@
 # MMA Insight Pro
-https://github.com/user-attachments/files/17228597/mma.insight.pro.pdf
-
+!(https://github.com/user-attachments/files/17228597/mma.insight.pro.pdf)
 
 ## Project Overview
 **MMA Insight Pro** is a data-driven platform that provides in-depth analytics and visualizations for MMA fights. By leveraging web scraping to gather real-time data from ESPN and using Power BI for dynamic dashboards, this project offers detailed insights on fighters, fight outcomes, and events in the MMA world.
