@@ -8,7 +8,6 @@
 - **Automated Web Scraping**: Fetches the latest MMA fight data directly from ESPN.
 - **Interactive Power BI Dashboard**: Visualizes key statistics such as fighter performance, match results, event details, and comparisons.
 - **Real-Time Data Integration**: Refresh the data to ensure up-to-date information with each new fight.
-- **Fighter Comparison**: Analyze fighter statistics based on metrics like strikes, submissions, and win/loss records.
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
