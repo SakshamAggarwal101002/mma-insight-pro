@@ -1,5 +1,5 @@
 # MMA Insight Pro
-[mma insight pro.pdf](https://github.com/user-attachments/files/17228597/mma.insight.pro.pdf)
+https://github.com/user-attachments/files/17228597/mma.insight.pro.pdf
 
 
 ## Project Overview
